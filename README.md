@@ -34,4 +34,4 @@ npm test
 
 ### Why?
 
-Encryption is used to obscure data from outside viewers. This example can be described as an "Onion" encryption. In practice, you could have each layer of the onion use a unique encryption key which would allow no single entity the ability to fully decrypt the data if you distributed each key under separate entities. At a high level, this is somewhat similar to how the tor "Onion" network works.
+Encryption is used to obscure data from outside viewers. This example can be described as an "Onion" encryption. In practice, you could have each layer of the onion use a unique encryption key which would allow no single entity the ability to fully decrypt the data. At a high level, this is somewhat similar to how the tor "Onion" network works.
